@@ -4,7 +4,7 @@ New SSH keys
 
 # No terminal (ed25519 é o nome da chave)
 ssh-keygen -t ed25519 -C lestathbanger@gmail.com
-insira uma senha (@1658Re)
+insira uma senha 
 
 # sera criado as chaves dentro de uma pasta neste caso foi criado no "/home/renato/.ssh/" 
 cd 
