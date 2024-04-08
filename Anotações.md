@@ -15,3 +15,7 @@ git commit -m "Inclusão no  arquivo de anotações com comandos para envio de a
 
 # Termina de enviar o arquivo para o Github
 git push origin main
+
+
+
+
